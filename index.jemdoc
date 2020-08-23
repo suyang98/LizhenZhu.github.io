@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+== Lizhen Zhu's Homepage 
+
+~~~
+{}{img_left}{images/LizhenZhu.jpg}{112}{168}
+Lizhen Zhu, Ph.D. student\n
+ 
+[https://ist.psu.edu/ College of Information Sciences and Technology]\n
+[https://www.psu.edu/ The Pennsylvania State University]\n
+
+Advisor: [http://wang.ist.psu.edu/docs/home.shtml Prof. Wang, James]\n
+
+
+Email: ljz5180@psu.edu\n
+
+Github: [https://github.com/suyang98 suyang98]
+
+~~~
+
+== Research Interests
+Computer vision; Affective computing; Recognition. 
+
+== Recent Updates
+- 08\/2020  I joined Prof. James Wang's group and start a project on computer vision.
+
+== Publications
+. Yun Luo, *Li-Zhen Zhu*, Bao-Liang Lu. A GAN-Based Data Augmentation Method for Multimodal Emotion Recognition. ISNN (1) 2019: 141-150. \[[images/augmentation.pdf PDF]\]
+. Yunxuan Xiao, Yikai Li, Yuwei Wu, *Lizhen Zhu*. Auto-Retoucher (ART) A Framework for Background Replacement and Foreground Adjustment. MVA 2019 (oral). \[[images/ART.pdf PDF]\]
+
+== Experience
+
+08\/2020 - Present: Ph.D in The Pennsylvania State University\n
+09\/2016 - 06\/2020: B.E in ACM Class, Shanghai Jiao Tong University\n
+
+07\/2019 - 12\/2019: Intern in Penn State University, advised by Prof. Zihan Zhou\n
+07\/2018 - 07\/2019: Research Assistant in Center for Brain-like Computing and Machine Intelligence(BCMI), SJTU\n
